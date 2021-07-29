@@ -2,17 +2,6 @@
 <html lang="es">
 <head>
 <title>Proyecto OCE</title>
-<script type="text/javascript" src="js/jquery.js"></script>
-<script type="text/javascript" src="js/jquery.timer.js"></script>
-<script src="js/valida_campos_2.js"></script>
-
-
-<link type="text/css" href="js/ui_azul/jquery-ui.min.css" rel="stylesheet" />
-<link type="text/css" href="js/b4/css/bootstrap.min.css" rel="stylesheet" />
-<link type="text/css" href="css/estilos.css" rel="stylesheet" />
- 
-<script src="js/ui_azul/jquery-ui.min.js"></script>
-<script src="js/index.js"></script>
 
 </head>
 <body style="background-color:#FFF;">
